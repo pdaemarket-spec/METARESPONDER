@@ -1,0 +1,11 @@
+marca,modelo,categoria,nombre,precio,stock
+Toyota,Corolla,Motor,Estopera,1500,10
+Toyota,Corolla,Filtros,Filtro de aceite,800,25
+Honda,Civic,Filtros,Filtro de aire,600,30
+Honda,Civic,Frenos,Pastillas de freno,2500,15
+Nissan,Sentra,Motor,Bomba de agua,3200,8
+Chevrolet,Aveo,Suspension,Amortiguador,4500,12
+Ford,Focus,Motor,Bujía,350,50
+Volkswagen,Jetta,Electricidad,Alternador,8500,5
+Mazda,3,Frenos,Disco de freno,2800,18
+Hyundai,Elantra,Embrague,Embrague,12000,6
