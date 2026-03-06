@@ -125,8 +125,16 @@ export default function DashboardPage() {
           <div className="bg-white rounded-xl shadow-sm p-6 border">
             <h3 className="text-lg font-semibold mb-4">WhatsApp</h3>
             <p className="text-gray-600 mb-4">Conecta tu número de WhatsApp</p>
-            <Link href="/whatsapp" className="inline-block px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700">
+            <Link href="/whatsapp" className="inline-block px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 mr-2">
               Configurar WhatsApp
+            </Link>
+          </div>
+
+          <div className="bg-white rounded-xl shadow-sm p-6 border">
+            <h3 className="text-lg font-semibold mb-4">Messenger</h3>
+            <p className="text-gray-600 mb-4">Conecta Facebook Messenger</p>
+            <Link href="/messenger" className="inline-block px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700">
+              Configurar Messenger
             </Link>
           </div>
 
